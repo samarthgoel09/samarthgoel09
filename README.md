@@ -11,6 +11,7 @@ I build things that ship to production — AI agents, full-stack platforms, and 
 🎓 **[Kambaz](https://github.com/samarthgoel09/kambaz-react-web-app)** — Full-stack learning management platform built with TypeScript, React, Node.js, MongoDB, and AWS.
 
 📱 **[ProductivityPal](https://github.com/madihahmd/Productivity-Application)** — iOS productivity app with Swift, Firebase, and real-time cloud sync.
+
 📊 **[JobHuntWrapped](https://github.com/samarthgoel09/Job-hunt-wrapped)** — Spotify Wrapped-style visualization for job applications. Built with Next.js.
 
 ## Published Research
@@ -39,6 +40,6 @@ I build things that ship to production — AI agents, full-stack platforms, and 
 
 ## Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/samarth-goel-417177170)
-[<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />](mailto:goel.sama@northeastern.edu)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />](https://goelsamarth.vercel.app)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/samarth-goel-417177170)
+[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:goel.sama@northeastern.edu)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://portfolio-eta-umber-56.vercel.app/)
